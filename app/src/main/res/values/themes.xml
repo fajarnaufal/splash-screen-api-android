@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Splash Screen-->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/example_google</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplashScreenAPI</item>
+    </style>
+
+    <!--App Theme-->
+    <style name="Theme.SplashScreenAPI" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
