@@ -141,7 +141,7 @@ class MainActivity : ComponentActivity() {
 ## 🔗 Resources
 
 - [Official Android Splash Screen Documentation](https://developer.android.com/develop/ui/views/launch/splash-screen)
-- [Medium Article](https://medium.com/@yourusername/your-article-link) - Detailed tutorial
+- [Medium Article](https://medium.com/@naufalfajarimani/implementing-android-12-splash-screen-api-with-animated-vector-drawable-avd-2f52fe54b63f) - Detailed tutorial
 
 ## 📄 License
 
@@ -153,4 +153,4 @@ Feel free to open issues or submit pull requests if you find any bugs or have su
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Naufal Fajar Imani and Github Copilot
